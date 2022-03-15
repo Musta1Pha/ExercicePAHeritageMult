@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1647115447 source:c:\users\mustapha\desktop\exerciceheritagemultiple\main.cpp
+	<iostream>
+	"PA.h"
+	"Personne.h"
+	"Etudiant.h"
+	"Professeur.h"
+
+1647033229 source:c:\users\mustapha\desktop\exerciceheritagemultiple\src\etudiant.cpp
+	"Etudiant.h"
+
+1647113527 c:\users\mustapha\desktop\exerciceheritagemultiple\include\etudiant.h
+	"Personne.h"
+	<iostream>
+	<string>
+
+1647114648 c:\users\mustapha\desktop\exerciceheritagemultiple\include\personne.h
+	<iostream>
+	<string>
+
+1647031773 source:c:\users\mustapha\desktop\exerciceheritagemultiple\src\personne.cpp
+	"Personne.h"
+	<iostream>
+
+1647033229 source:c:\users\mustapha\desktop\exerciceheritagemultiple\src\professeur.cpp
+	"Professeur.h"
+	<iostream>
+
+1647115342 c:\users\mustapha\desktop\exerciceheritagemultiple\include\professeur.h
+	"Personne.h"
+	<iostream>
+	<string>
+
+1647113548 source:c:\users\mustapha\desktop\exerciceheritagemultiple\src\pa.cpp
+	"PA.h"
+	<iostream>
+	<string>
+
+1647115220 c:\users\mustapha\desktop\exerciceheritagemultiple\include\pa.h
+	"Professeur.h"
+	"Etudiant.h"
+	<iostream>
+	<string>
+
